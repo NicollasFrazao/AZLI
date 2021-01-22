@@ -1,0 +1,10 @@
+[27-Jan-2016 00:48:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/anyte539/public_html/azli/php/Conexao.php on line 14
+[27-Jan-2016 00:48:10] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/anyte539/public_html/azli/php/Conexao.php on line 14
+[27-Jan-2016 05:00:01] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/anyte539/public_html/azli/php/Conexao.php on line 14
+[27-Jan-2016 05:00:01] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/anyte539/public_html/azli/php/Conexao.php on line 14
+[27-Jan-2016 13:03:02] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/anyte539/public_html/azli/index.php on line 2986
+[27-Jan-2016 13:03:02] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/anyte539/public_html/azli/index.php on line 2986
+[27-Jan-2016 13:07:57] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/anyte539/public_html/azli/index.php on line 2986
+[27-Jan-2016 13:07:57] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/anyte539/public_html/azli/index.php on line 2986
+[12-Feb-2016 17:30:52] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/anyte539/public_html/azli/php/Conexao.php on line 14
+[12-Feb-2016 17:30:52] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/anyte539/public_html/azli/php/Conexao.php on line 14
